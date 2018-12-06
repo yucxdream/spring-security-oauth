@@ -15,6 +15,5 @@ public class TestConfig {
         System.out.println("dddddd");
         System.out.println("eeeeee");
         System.out.println("ffffff");
-        System.out.println("yucx2");
     }
 }
