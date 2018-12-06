@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Api(description = "测试地址")
 public class TestController {
 
-
     @RequestMapping(value = "/test",method = RequestMethod.POST)
     @ResponseBody
     @ApiOperation(value = "测试1",notes = "测试2")
