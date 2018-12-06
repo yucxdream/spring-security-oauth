@@ -16,5 +16,6 @@ public class TestConfig {
         System.out.println("eeeeee");
         System.out.println("ffffff");
         System.out.println("master1");
+        System.out.println("master2");
     }
 }
