@@ -18,5 +18,6 @@ public class TestConfig {
         System.out.println("yucx1");
         System.out.println("yucx2");
         System.out.println("yucx3");
+        System.out.println("yucx4");
     }
 }
