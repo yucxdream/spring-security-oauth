@@ -20,6 +20,7 @@ public class TestConfig {
         System.out.println("yucx3");
         System.out.println("yucx4");
         System.out.println("yucx5");
+        System.out.println("yucx6");
         System.out.println("master1");
         System.out.println("master2");
         System.out.println("master3");
