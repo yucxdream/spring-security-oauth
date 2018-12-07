@@ -9,21 +9,5 @@ public class TestConfig {
 
     public static void main(String[] args) {
 
-        System.out.println("aaaaa");
-        System.out.println("bbbbb");
-        System.out.println("cccccg");
-        System.out.println("dddddd");
-        System.out.println("eeeeee");
-        System.out.println("ffffff");
-        System.out.println("yucx1");
-        System.out.println("yucx2");
-        System.out.println("yucx3");
-        System.out.println("yucx4");
-        System.out.println("yucx5");
-        System.out.println("yucx6");
-        System.out.println("master1");
-        System.out.println("master2");
-        System.out.println("master3");
-        System.out.println("yucx7");
     }
 }
